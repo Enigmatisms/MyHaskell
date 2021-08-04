@@ -1,0 +1,2 @@
+# MyHaskell
+Haskell learning repository.
